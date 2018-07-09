@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "3.1.15.3",
+  "iOS" : [
+    {
+      "name" : "MJRefresh",
+      "hash" : "5b78eacc47c12f86d9aedbee0215f5dfbe6597f6a96f286311fd25d8963f7e96"
+    }
+  ]
+}

@@ -10,6 +10,8 @@
 
 @interface ViewController : UIViewController
 
+- (IBAction)showloading:(id)sender;
+- (IBAction)tableViewDemo:(id)sender;
 
 @end
 
